@@ -154,3 +154,7 @@ This repository is intended for research and educational purposes.
 - Digital wellbeing research inspiration
 
 ---
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
