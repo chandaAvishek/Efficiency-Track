@@ -1,0 +1,44 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+env/
+venv/
+.venv
+
+# VSCode and PyCharm settings (optional, if present)
+.vscode/
+.idea/
+
+# Packages, logs, and pip cache
+*.egg-info/
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Data files (downloads, outputs, or accidental uploads)
+*.csv
+*.xlsx
+*.hdf5
+*.json
+
+# If you want a small sample dataset tracked, un-ignore that specific file (remove *.csv and add !data/sample.csv if needed)
+
+# Configuration/Secrets/Environment
+*.env
+.env/
+
+# Other editors
+*.swp
+*~
+
+# Colab temp files (if working on Google Colab)
+.colab*
